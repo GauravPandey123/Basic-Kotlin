@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_ten">10sp</dimen>
+    <dimen name="font_twelve">12sp</dimen>
+    <dimen name="font_fourteen">14sp</dimen>
+    <dimen name="font_sixteen">16sp</dimen>
+    <dimen name="font_eighteen">18sp</dimen>
+    <dimen name="font_twenty">20sp</dimen>
+    <dimen name="font_twentyFour">24sp</dimen>
+    <dimen name="margin_56_dp">56dp</dimen>
+    <dimen name="home_tabicon_height">40dp</dimen>
+    <dimen name="home_create_height">70dp</dimen>
+    <dimen name="margin_80_dp">80dp</dimen>
+    <dimen name="margin_min">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_xlarge">64dp</dimen>
+    <dimen name="title_options">48dp</dimen>
+</resources>
